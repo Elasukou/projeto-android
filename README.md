@@ -1,6 +1,3 @@
-# projeto-android
-
-
 <h1 aling="center">Projeto Android</h1>
 
 <p aling="center">
